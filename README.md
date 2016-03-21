@@ -1,0 +1,2 @@
+# vsTheme
+Template october cms
